@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [View project](https://your-live-site-url.com)
+- Live Site URL: [View project](https://blog-preview-card-lovat-theta.vercel.app/)
 
 ## My process
 
